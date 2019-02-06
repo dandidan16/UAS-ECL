@@ -14,7 +14,7 @@
 
 Terima kasih, semoga bermanfaat :) 
 
-Wafaa Kamilah Maulani - 10515171 (ECL-10)
+Dandi Darwiyanto - 10515204 (ECL-10)
 
 ## License
 
